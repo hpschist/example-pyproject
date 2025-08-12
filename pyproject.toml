@@ -2,6 +2,7 @@
 name = "example-pyproject"
 version = "0.0.1a1" #a1 = first_alpha
 license = "MIT"
-author = [ 
+-author = []
+-authors = [ 
     {name = "Maggie May", email = "maggie.may@gmail.com"}
 ]
