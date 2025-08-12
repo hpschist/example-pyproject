@@ -2,9 +2,9 @@
 name = "example-pyproject"
 version = "0.0.1a1" #a1 = first_alpha
 license = "MIT"
-license files = ["LINCENSE.TXT]
+license-files = ["LINCENSE.TXT]
 authors = [ 
-    {name = "Maggie May", email = "maggie.may@gmail.com"}
+    {name = "izzy Muller", email = "ipm324@my.utexas.edu"}
 ]
 build-backend = "setuptools.build_meta"
 requires = [
