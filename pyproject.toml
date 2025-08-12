@@ -2,7 +2,7 @@
 name = "example-pyproject"
 version = "0.0.1a1" #a1 = first_alpha
 license = "MIT"
-license-files = ["LINCENSE.TXT]
+license-files = ["LICENSE.TXT]
 authors = [ 
     {name = "izzy Muller", email = "ipm324@my.utexas.edu"}
 ]
